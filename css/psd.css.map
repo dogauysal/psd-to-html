@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAIA,AAAA,UAAU,CAAC,SAAS,CAAC,EAAE,CAAC,EAAE,CAAC;EACvB,KAAK,EALO,SAAyB;CAMxC",
+    "sources": [
+        "psd.scss"
+    ],
+    "names": [],
+    "file": "psd.css"
+}

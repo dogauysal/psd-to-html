@@ -1,0 +1,7 @@
+$top_menu_item: percentage((100/7.5)/100);
+
+
+
+#menu_area .top_menu ul li {
+    width: $top_menu_item
+}
